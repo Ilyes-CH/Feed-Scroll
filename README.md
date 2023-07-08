@@ -1,4 +1,5 @@
-## Dynamic Image Gallery
+## Dynamic Feed
+[Feed Preview]([https://github.com/Ilyes-CH/Feed-Scroll/blob/master/scroll.png])
 
 This JavaScript code sets up a dynamic image gallery that fetches random photos from the Unsplash API and displays them in a grid layout.
 
